@@ -1,0 +1,6 @@
+April-May 2022
+this was an introduction course for Python from UCD
+(not great, but ok)
+little sample program was made to organize 
+restaurant booking system.
+Can be developed further as we move along.
